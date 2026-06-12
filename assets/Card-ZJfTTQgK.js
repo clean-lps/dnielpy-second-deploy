@@ -1,1 +1,0 @@
-import{j as d}from"./react-vendor-BmF14xuA.js";import{c as e}from"./index-C_POD2qq.js";const m={none:"",sm:"p-4",md:"p-5",lg:"p-8"};function a({children:r,className:o,padding:s="md"}){return d.jsx("div",{className:e("rounded-lg bg-white border border-gray-200 shadow-sm",m[s],o),children:r})}export{a as C};
