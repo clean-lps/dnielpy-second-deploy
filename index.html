@@ -16,12 +16,25 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>Von Grease Trap & Septic Tank Inc | Miami-Dade Septic Services</title>
-    <script type="module" crossorigin src="/assets/index-C5Oii9s-.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/react-vendor-D0r23_Cw.js">
-    <link rel="modulepreload" crossorigin href="/assets/icons-XstNeUv-.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-g8eo9Ssk.css">
-  <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
+    <script type="module" crossorigin src="/dnielpy-second-deploy/assets/index-BhEgCMkn.js"></script>
+    <link rel="modulepreload" crossorigin href="/dnielpy-second-deploy/assets/react-vendor-D0r23_Cw.js">
+    <link rel="modulepreload" crossorigin href="/dnielpy-second-deploy/assets/icons-XstNeUv-.js">
+    <link rel="stylesheet" crossorigin href="/dnielpy-second-deploy/assets/index-Ca1c-uqf.css">
+  <link rel="manifest" href="/dnielpy-second-deploy/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/dnielpy-second-deploy/registerSW.js"></script></head>
   <body>
     <div id="root"></div>
+    <script>
+      // SPA redirect handler for GitHub Pages
+      (function(l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search.slice(1).split('&').map(function(s) {
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
   </body>
 </html>
