@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /dashboard/
+Disallow: /login
+Disallow: /dashboard
+Disallow: /admin
 
-Sitemap: https://www.valetparking4you.com/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
