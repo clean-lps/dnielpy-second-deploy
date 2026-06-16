@@ -3,5 +3,6 @@ Allow: /
 Disallow: /login
 Disallow: /dashboard
 Disallow: /admin
+Disallow: /solicitar-servicio
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://vongreasetrap.com/sitemap.xml
