@@ -7,34 +7,4 @@
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
-  <url>
-    <loc>https://clean-lps.github.io/dnielpy-second-deploy/about</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clean-lps.github.io/dnielpy-second-deploy/blog</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://clean-lps.github.io/dnielpy-second-deploy/pricing</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://clean-lps.github.io/dnielpy-second-deploy/contact</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://clean-lps.github.io/dnielpy-second-deploy/login</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.3</priority>
-  </url>
 </urlset>
