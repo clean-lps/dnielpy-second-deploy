@@ -3,6 +3,5 @@ Allow: /
 Disallow: /login
 Disallow: /dashboard
 Disallow: /admin
-Disallow: /solicitar-servicio
 
-Sitemap: https://vongreasetrap.com/sitemap.xml
+Sitemap: https://clean-lps.github.io/dnielpy-second-deploy/sitemap.xml
