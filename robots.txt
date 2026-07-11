@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://clean-lps.github.io/dnielpy-second-deploy/sitemap.xml
+Sitemap: https://dnielpy.github.io/dnielpy-second-deploy/sitemap.xml
