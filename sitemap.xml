@@ -3,31 +3,31 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dnielpy.github.io/dnielpy-second-deploy/</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://dnielpy.github.io/dnielpy-second-deploy/services</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dnielpy.github.io/dnielpy-second-deploy/portfolio</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://dnielpy.github.io/dnielpy-second-deploy/about</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dnielpy.github.io/dnielpy-second-deploy/contact</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
